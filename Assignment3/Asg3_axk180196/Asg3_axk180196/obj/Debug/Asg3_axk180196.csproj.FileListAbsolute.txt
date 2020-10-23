@@ -1,0 +1,10 @@
+C:\Users\utdstudent\Documents\Asg3_axk180196\Asg3_axk180196\obj\Debug\Asg3_axk180196.csprojAssemblyReference.cache
+C:\Users\utdstudent\Documents\Asg3_axk180196\Asg3_axk180196\obj\Debug\Asg3_axk180196.Form1.resources
+C:\Users\utdstudent\Documents\Asg3_axk180196\Asg3_axk180196\obj\Debug\Asg3_axk180196.Properties.Resources.resources
+C:\Users\utdstudent\Documents\Asg3_axk180196\Asg3_axk180196\obj\Debug\Asg3_axk180196.csproj.GenerateResource.cache
+C:\Users\utdstudent\Documents\Asg3_axk180196\Asg3_axk180196\obj\Debug\Asg3_axk180196.csproj.CoreCompileInputs.cache
+C:\Users\utdstudent\Documents\Asg3_axk180196\Asg3_axk180196\bin\Debug\Asg3_axk180196.exe.config
+C:\Users\utdstudent\Documents\Asg3_axk180196\Asg3_axk180196\bin\Debug\Asg3_axk180196.exe
+C:\Users\utdstudent\Documents\Asg3_axk180196\Asg3_axk180196\bin\Debug\Asg3_axk180196.pdb
+C:\Users\utdstudent\Documents\Asg3_axk180196\Asg3_axk180196\obj\Debug\Asg3_axk180196.exe
+C:\Users\utdstudent\Documents\Asg3_axk180196\Asg3_axk180196\obj\Debug\Asg3_axk180196.pdb
